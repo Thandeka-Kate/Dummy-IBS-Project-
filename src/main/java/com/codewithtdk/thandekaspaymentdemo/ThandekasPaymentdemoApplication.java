@@ -15,6 +15,7 @@ public class ThandekasPaymentdemoApplication {
         System.out.println("Hello thandeka");
 
         System.out.println("test");
+        System.out.println("kate");
     }
 
 
