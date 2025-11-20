@@ -10,6 +10,7 @@ public class ThandekasPaymentdemoApplication {
 
         SpringApplication.run(ThandekasPaymentdemoApplication.class, args);
         System.out.println("ThandekasPaymentdemoApplication started");
+        System.exit(0);
     }
 
 
