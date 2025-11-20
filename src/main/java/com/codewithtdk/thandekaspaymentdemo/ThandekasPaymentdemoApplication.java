@@ -13,6 +13,8 @@ public class ThandekasPaymentdemoApplication {
         System.exit(0);
 
         System.out.println("Hello thandeka");
+
+        System.out.println("test");
     }
 
 
